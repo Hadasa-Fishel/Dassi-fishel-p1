@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "mSPyviadDX0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user1\\Desktop\\pkd1\\pkd1\\pkd1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user1\\.nuget\\packages\\system.commandline\\2.0.0-beta4.22272.1\\system.commandline.2.0.0-beta4.22272.1.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\system.commandline.namingconventionbinder\\2.0.0-beta4.22272.1\\system.commandline.namingconventionbinder.2.0.0-beta4.22272.1.nupkg.sha512"
+  ],
+  "logs": []
+}

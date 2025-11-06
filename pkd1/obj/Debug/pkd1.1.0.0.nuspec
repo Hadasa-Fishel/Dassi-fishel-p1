@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>pkd1</id>
+    <version>1.0.0</version>
+    <authors>pkd1</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="System.CommandLine.NamingConventionBinder" version="2.0.0-beta4.22272.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\user1\Desktop\pkd1\pkd1\bin\Debug\net8.0\pkd1.runtimeconfig.json" target="lib\net8.0\pkd1.runtimeconfig.json" />
+    <file src="C:\Users\user1\Desktop\pkd1\pkd1\bin\Debug\net8.0\pkd1.dll" target="lib\net8.0\pkd1.dll" />
+  </files>
+</package>
